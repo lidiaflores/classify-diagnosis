@@ -1,2 +1,2 @@
 # classify-diagnosis
-training supervised algorithms for classifying a diagnosis from free-text notes on symptoms
+a repo for supervised classification of medical diagnosis
