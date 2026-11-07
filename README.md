@@ -7,7 +7,7 @@ project uses the HuggingFace dataset [gretelai/symptom_to_diagnosis](https://hug
 
 This is a learning project and still a work in progress, it should not be used for medical decisions. 
 
-## Models
+## models
 Both approaches are tested with logistic regression (one v rest), multnomial naive bayes, linear SVM,
 decision tree, and random forest, using 5-fold cross validation on the train split.
 
